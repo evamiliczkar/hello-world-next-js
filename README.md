@@ -11,7 +11,7 @@ Simple Next JS project provided by [App-Generator](https://app-generator.dev/). 
 
 > How to use the code
 
-Before start using this project, please make sure you have a [Minimal Programming Kit](https://docs.appseed.us/content/tutorials/minimal-programming-kit) already installed and tools accessible in the terminal:
+Before start using this project, please make sure you have a [Minimal Programming Kit](https://app-generator.dev/docs/developer-tools/minimal-programming-kit.html) already installed and tools accessible in the terminal:
 
 - A modern editor - **VSCode** or **Atom**
 - **Nodejs** - used in Javascript-based products and tools
@@ -54,7 +54,7 @@ $ yarn dev
 For more resources, please access: 
 
 - [Next JS](https://nextjs.org/) - official website
-- [Getting Started with Next JS](https://docs.appseed.us/content/getting-started-with/next-js) - a comprehensive tutorial for beginners. 
+- [Getting Started with Next JS](https://app-generator.dev/docs/technologies/nextjs/index.html) - a comprehensive tutorial for beginners. 
 
 <br />
 
