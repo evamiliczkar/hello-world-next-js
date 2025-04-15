@@ -1,6 +1,9 @@
-# Hello World - Next JS
+# [Hello World - Next JS](https://app-generator.dev/docs/technologies/nextjs/index.html)
 
-Simple Next JS project provided by AppSeed. For newcomers, **Next JS** is a popular web framework built on top of React that provides out-of-the-box many hot features used in modern web development: static and server rendering, smart bundling, Typescripts support without a complex configuration.  
+Simple Next JS project provided by [App-Generator](https://app-generator.dev/). For newcomers, [NextJS is a popular web framework](https://app-generator.dev/docs/technologies/nextjs/index.html) built on top of [React](https://app-generator.dev/docs/technologies/react/index.html) that provides many out-of-the-box hot features used in modern web development: static and server rendering, smart bundling, Typescripts support without a complex configuration.  
+
+- 👉 [Getting Started with NextJS](https://app-generator.dev/docs/technologies/nextjs/index.html)
+- 👉 [Getting Started with React](https://app-generator.dev/docs/technologies/react/index.html)
 
 ![image](https://user-images.githubusercontent.com/51070104/120604977-375ceb00-c456-11eb-899b-20b385b962a6.png)
 
@@ -56,4 +59,4 @@ For more resources, please access:
 <br />
 
 ---
-Hello World in Next JS - provided by AppSeed [App Generator](https://appseed.us/)
+[Hello World - Next JS](https://app-generator.dev/docs/technologies/nextjs/index.html) - provided by [App Generator]([https://appseed.us/](https://app-generator.dev/))
